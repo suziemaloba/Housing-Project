@@ -1,0 +1,25 @@
+.SignIn-Container{
+    width: 30%;
+    margin: 15px auto;
+    background-color: #add8e6;
+    text-align: center;
+    /* border: 1px solid #000000; */
+    box-shadow: 4px 4px 10x#000000;
+   
+
+    
+}
+
+button{
+    /* background-color: lightblue; */
+    color: purple;
+    font-weight: bolder;
+}
+
+h4{
+    font-size: 27px;
+}
+
+h3{
+    font-size: 27px;
+}

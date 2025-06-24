@@ -1,0 +1,17 @@
+.Room1{
+margin:0px ;
+
+}
+p{
+ color:black;
+ font-weight: bolder;
+ font-size: larger;
+}
+.house-card{
+    width: 70vw;
+    margin: 0 auto;
+    display: block;
+}
+
+
+

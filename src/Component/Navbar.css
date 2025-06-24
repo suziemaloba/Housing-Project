@@ -1,0 +1,350 @@
+
+body{
+  margin:0px;
+  padding:0px  ;
+}
+
+
+.Nav-bar{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.669), rgba(0, 0, 0, 0.583)), url("/public/pexels-eye4dtail-129494.jpg");
+background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    color: white;
+    padding-left: 20px;
+    
+    
+    
+}
+
+.Logo{
+
+   color: #ffffff;
+   padding: 1PX;
+   text-align: center;
+   font-size: 40px;
+       
+}
+
+.hello{
+  margin-top: 20px;
+  padding-left: 50px;
+  background-color: #00eeff;
+  border-radius: 10px;
+  color: black;
+  font-size: 16px;
+  display: flex;
+  margin-left: 18px;
+  text-decoration: none;
+  padding: 18px;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+a{
+  display: block;
+}
+
+.Land{
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  
+}
+
+.Lan{
+  margin-top: 1px;
+  text-decoration: none;
+  font-size: 30px;
+  color: hwb(187 0% 0%);
+
+}
+
+
+.First-img{
+    background-color: black;
+    height: 150px;
+    width: 130px;
+    border-radius: 60%;
+   
+}
+
+div.Button{
+  margin-left: 14%;
+   padding: 26px; 
+}
+
+.Button input{
+  margin-right: 20%;
+  padding: 5px;
+  background-color: white;
+  outline: none;
+  color: blue;
+}
+
+.Joe{
+    height: 30px;
+    width: 85%;
+    text-align: center;
+    margin-right: 30%; 
+    padding: 26px; 
+}
+
+.text{
+  text-align: center;
+color: white;
+font-size: xx-large;
+}
+
+
+p{
+ color:white;
+ font-weight: bolder;
+ font-size: larger;
+}
+.Login{
+  text-align: center;
+  padding: 3px;
+  color: red;
+  display: flex;
+
+
+}
+.Room1{
+  position: relative;
+  border: 2px solid ;
+ text-decoration: none;
+ background: linear-gradient(to left,rgb(12, 178, 233),white,lightblue);
+
+}
+.house-card{
+  text-decoration: none;
+}
+
+
+.Lin{
+object-fit: cover;
+}
+
+.pic{
+  width: 70vw;
+  height: 70vh;
+  padding: 2px;
+  object-fit:cover;
+  
+}
+
+
+.Bee{
+  background-color: white;
+}
+
+.SignIn-Container {
+  max-width: 400px;
+  border-radius: 10px; 
+text-align: center;
+margin: 40px auto;
+box-shadow: 0px 0px 10px #0000ff;
+padding: 20px;
+background-color: whitesmoke;
+}
+
+.Ins{
+  padding: 20px;
+  width: 40%;
+font: 30px;
+  border-top: 10px;
+  margin-top: 15px;
+}
+
+form{
+  padding-top: 100px;
+
+}
+
+
+.but{
+  background-color: blue;
+  color: #ffffff;
+  border: 10px;
+  width: 20%;
+  padding: 10px;
+  border-radius: 1px;
+  
+}
+
+.Lof{
+  border: #0000ff                            ;
+  color:black;
+  text-align: center;
+  margin: auto;
+  height:100%;
+  font-weight: bolder;
+  font-size: x-large;
+}
+
+.Go{
+  margin-bottom: 0px;
+ max-width: 500px;
+  border-radius: 10px; 
+text-align: center;
+margin: 40px auto;
+box-shadow: 0px 0px 10px #0000ff;
+padding: 10px;
+background-color:whitesmoke;
+  
+}
+
+.lan{
+  text-align: center;
+  margin-top: 20px;
+  
+  
+}
+
+.In{
+
+  margin: 0px;
+padding: 10px;
+width: 70%;
+margin-left: 10%;
+
+}
+
+.Mas{
+  text-align: center;
+  margin-top: 30px;
+font-size: 26px;
+}
+
+.learnner{
+  border: 2ps solid black;
+  background-color: rgba(173, 216, 230, 0.468);
+  height: 100%;
+  font-size: 26px;
+  color: black;
+  margin: 10px;
+
+}
+
+a{
+  display: block;
+}
+.Landlord{
+  margin: 2px;
+}
+
+.stay{
+  background-color: black;
+  border-radius: 10px;
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+  border: 5px;
+  width: 15vw;
+  font-size: x-large;
+  font-weight: 300;
+  text-align: center;
+  
+}
+
+.stray{
+  text-align:center ;
+}
+.tay{
+
+  background-color:black;
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  width: 15vw;
+  font-size: x-large;
+  font-weight: 300;
+  margin-left: 42%;
+  
+}
+
+.Lens{
+ background-color: rgba(20, 199, 139, 0.308); 
+}
+Button{
+  padding: 13px;
+  margin-top: 15px;
+  width: 15vw;
+  color: white;
+  border-radius: 4px;
+}
+
+.Inz{
+ background-color:white; 
+ padding: 60px;
+color: white;
+width:60vw;
+margin-left: 10%;
+}
+.he{
+ padding: 15px;
+ margin-top: 10px;
+ color: white;
+ background-color: blue;
+ font-size: x-large;
+}
+
+.tel{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 2px;
+  
+}
+
+.Kno{
+  text-align: center;
+  border-top: 20px solid lightblue;
+  color: blue;
+  
+
+  
+}
+
+.For-img{
+background-color: blueviolet;
+}
+.Inn{
+  width: 60vw;
+padding: 100px;
+text-align: center;
+margin-left: 10%;
+}
+
+
+.caroussel{
+  width: 80%;
+  margin: 0 auto;
+  height: 600px;
+  }
+
+  .Detail-img{
+    height: 600px;
+  }
+
+  .Me{
+    margin-left: 3Opx;
+    font-size:  20px;
+    font-weight: lighter ;
+    font-family:  serif;
+    background-color: aquamarine;
+  }
+
+   .va{
+    font-size:  36px;
+     color: black;
+    font-family: serif;
+  }
+
+  footer{
+    font-size: large;
+    margin-bottom: 50px;
+  }
